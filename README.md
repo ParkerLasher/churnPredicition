@@ -27,12 +27,12 @@ Note: This project is currently in the R&D phase. It is not optimized or integra
 - Getting Started
 
 ## Prerequisites
-Python 3.7+
-Required Python packages listed in requirements.txt (if provided).
-Data
+- Python 3.7+
+- Required Python packages listed in requirements.txt (if provided).
+**Data**
 Due to size constraints, the raw dataset from IBM cannot be uploaded directly to this repository.
-Option 1: Download the dataset from the original source (IBM or provided link) and place it in the data directory.
-Option 2: Use the preprocessed enhanced_data.csv if provided.
+- Option 1: Download the dataset from the original source [kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and place it in the data directory.
+- Option 2: Use the preprocessed enhanced_data.csv if provided.
 
 ## Project Status
 
